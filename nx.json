@@ -28,7 +28,7 @@
   },
   "projects": {
     "moracle-app": {
-      "tags": []
+      "tags": ["scope: moracle-app"]
     },
     "moracle-app-e2e": {
       "tags": [],
